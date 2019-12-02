@@ -1,3 +1,4 @@
+//
 var group = document.querySelectorAll("div[class='_4ikz']>div>div>div");
 for (var i = 0; i < group.length; i++) {
     var feed = group[i].querySelectorAll("div[data-fte='1']");
